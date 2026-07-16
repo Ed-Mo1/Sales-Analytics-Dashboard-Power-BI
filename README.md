@@ -38,5 +38,6 @@ This project is an end-to-end **Sales Analytics Dashboard** built with **Power B
 
 **Eyad Muhammad**
 
-- LinkedIn: *(Add your LinkedIn profile)*
-- GitHub: *(Add your GitHub profile)*
+- LinkedIn: *(https://linkedin.com/in/ed-mo1)*
+- GitHub: *(https://github.com/Ed-Mo1)*
+
